@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: plot.redblue.sadie
+message: >-
+  Edited version of plot.sadie within the epiphy function
+  for red-blue plots
+type: software
+authors:
+  - given-names: Emily
+    family-names: Bick
+    email: dremilybick@gmail.com
+    affiliation: University of Wisconsin–Madison
+    orcid: 'https://orcid.org/0000-0002-0014-8342'
+  - given-names: Nora
+    family-names: Forbes
+    email: nora.j.forbes@gmail.com
+    affiliation: University of Copenhagen
+    orcid: 'https://orcid.org/0000-0002-5971-1347'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7726355
+    description: DOI badge for enabled repository
+repository-code: 'https://github.com/dremilybick/epiphy_edited'
